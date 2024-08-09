@@ -1,0 +1,160 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    /* overflow: scroll; */
+}
+.main{
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+}
+.navParent{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 8%;
+    /* padding: 5px; */
+    /* background-color: rgb(193, 63, 63); */
+}
+.backParent{
+    display: flex;
+}
+.backParent:hover{
+    cursor: pointer;
+}
+.back{
+    font-size: 25px;
+}
+.back:hover{
+    text-decoration: underline;
+}
+.copyFormat{
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    /* padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px; */
+    border-radius: 10px;
+    letter-spacing: 2px;
+}
+.copyFormat:hover{
+    cursor: pointer;
+}
+.copy{
+    font-size: 13px;
+    font-weight: bold;
+}
+.sound{
+    font-size: 25px;
+}
+.sound:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.fiveC{
+    display: flex;
+    /* flex-wrap: wrap; */
+    width: 100%;
+}
+.BEEKEEPER{
+    background-color:#eccc68;
+}
+.color{
+    width: 288px;
+    height: 140px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    /* padding: .5%; */
+}
+.txt-align{
+    color: white;
+    font-weight: bold;
+}
+.Spiced{
+    background-color: #ff7f50;
+}
+.Glamour{
+    background-color: #ff6b81;
+}
+.June{
+    background-color: #a4b0be;
+}
+.Coastal{
+    background-color: #57606f;
+}
+.fiveC2{
+    display: flex;
+    /* flex-wrap: wrap; */
+    width: 100%;
+}
+.Turbo{
+    background-color: #ffa502;
+}
+.Jelly{
+    background-color: #ff6348;
+}
+.Carmine{
+    background-color: #ff6348;
+}
+.Apple{
+    background-color: #747d8c;
+}
+.Ice{
+    background-color: #2f3542;
+}
+.fiveC3{
+    display: flex;
+    /* flex-wrap: wrap; */
+    width: 100%;
+}
+.Middle{
+    background-color: #7bed9f;
+}
+.Helio{
+    background-color: #70a1ff;
+}
+.Fruit{
+    background-color: #5352ed;
+}
+.DeepK{
+    background-color: #ffffff;
+    
+}
+.Eagle{
+    background-color: #dfe4ea;
+}
+.fiveC4{
+    display: flex;
+    /* flex-wrap: wrap; */
+    width: 100%;
+}
+.Green{
+    background-color: #2ed573;
+}
+.Steel{
+    background-color:#1e90ff;
+}
+.BLU{
+    background-color: #3742fa;
+}
+.Deep{
+    background-color: #f1f2f6;
+}
+.Wizard{
+    background-color: #ced6e0;
+}
+.footer{
+    font-weight: bold;
+    width: 98%;
+    height: 8%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: white;
+}
+    
